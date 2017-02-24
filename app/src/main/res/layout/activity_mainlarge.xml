@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="@drawable/mainscreen">
+
+    <ImageView
+        android:id="@+id/menubtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/menubtn"
+        android:layout_gravity="right" 
+        android:layout_marginTop="15dp"
+        android:layout_marginRight="10dp"/>
+     <LinearLayout
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:layout_gravity="center"
+               android:layout_marginTop="50dp" >
+
+               <ImageView
+                   android:id="@+id/img_mainlarge_mm"
+                   android:layout_width="50dp"
+                   android:layout_height="40dp"
+                   android:layout_marginLeft="220dp"
+                   android:layout_marginRight="10dp"
+                   android:src="@drawable/ic_mmflag100" />
+
+               <ImageView
+                   android:id="@+id/img_mainlarge_en"
+                   android:layout_width="50dp"
+                   android:layout_height="40dp"
+                   android:src="@drawable/ic_engflag100" />
+
+         </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" 
+        android:layout_marginTop="10dp">
+
+        <EditText
+        android:id="@+id/etbusinessname"
+        android:layout_width="275dp"
+        android:layout_height="40dp"
+        android:ems="10" 
+        android:layout_marginTop="13dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:hint="Business Name"
+        android:paddingLeft="13dp"
+        android:textSize="16sp"
+        android:layout_gravity="center"
+        android:background="@drawable/searchfield">
+          <requestFocus />
+    </EditText>
+    
+       <Spinner
+           android:id="@+id/spinner1"
+           style="@style/spinner_style"
+           android:layout_width="275dp"
+           android:layout_height="40dp"
+           android:layout_alignParentLeft="true"
+           android:layout_below="@+id/etbusinessname"
+           android:layout_gravity="center"
+           android:layout_marginLeft="10dp"
+           android:layout_marginRight="10dp"
+           android:layout_marginTop="8dp"
+           android:popupBackground="@color/maincolor" />
+       
+       <Button
+            android:id="@+id/btnsearch"
+            android:layout_width="275dp"
+            android:layout_height="40dp"
+            android:text="Search" 
+            android:textSize="12sp"
+            android:textColor="#FFFFFF"
+            android:background="@drawable/searchbtn"
+            android:layout_below="@+id/spinner1"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_gravity="center"/>
+       </LinearLayout>
+     
+
+       <LinearLayout
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:orientation="vertical"
+           android:layout_weight="1"
+           android:layout_marginTop="5dp"
+           android:layout_marginBottom="5dp"
+           >
+
+           <Button
+               android:id="@+id/btnpop"
+               android:layout_width="185dp"
+               android:layout_height="50dp"
+              
+               android:background="@drawable/btn1"
+               android:textSize="12sp"
+               android:layout_marginTop="10dp"
+                android:layout_gravity="center"
+               android:textColor="#FFFFFF"/>
+            <Button
+               android:id="@+id/btncat"
+               android:layout_width="185dp"
+               android:layout_height="50dp"
+              
+               android:background="@drawable/btn2"
+               android:textSize="12sp"
+               android:layout_marginTop="10dp"
+                android:layout_gravity="center"
+               android:textColor="#FFFFFF"/>
+             <Button
+               android:id="@+id/btnname"
+               android:layout_width="185dp"
+               android:layout_height="50dp"
+              
+               android:background="@drawable/btn3"
+               android:textSize="12sp"
+               android:layout_marginTop="10dp"
+                android:layout_gravity="center"
+               android:textColor="#FFFFFF"/>
+              <Button
+               android:id="@+id/btncity"
+               android:layout_width="185dp"
+               android:layout_height="50dp"
+               
+               android:background="@drawable/btn4"
+               android:textSize="12sp"
+               android:layout_marginTop="8dp"
+               android:layout_gravity="center"
+               android:textColor="#FFFFFF"/>
+
+       </LinearLayout>
+   
+</LinearLayout>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">MyanmarSuperPages</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_web">WebActivity</string>
+    
+    <string name="char_mma"> က </string>
+    <string name="char_mma1"> ခ </string>
+    <string name="char_mma2"> ဂ </string>
+    <string name="char_mma3"> ဃ </string>
+     <string name="char_mma4"> င </string>
+     
+     <string name="char_mmb"> စ </string>
+    <string name="char_mmb1"> ဆ </string>
+    <string name="char_mmb2"> ဇ </string>
+    <string name="char_mmb3"> ဈ </string>
+     <string name="char_mmb4"> ည </string> 
+     
+     <string name="char_mmc"> ဋ </string>
+     <string name="char_mmc1">ဌ  </string>
+     <string name="char_mmc2"> ဍ </string>
+     <string name="char_mmc3"> ဎ </string>
+     <string name="char_mmc4"> ဏ </string>
+
+     <string name="char_mmd"> တ </string>
+     <string name="char_mmd1"> ထ </string>
+     <string name="char_mmd2"> ဒ </string>
+     <string name="char_mmd3"> ဓ </string>
+     <string name="char_mmd4"> န </string>
+     
+     <string name="char_mme"> ပ </string>
+     <string name="char_mme1"> ဖ </string>
+     <string name="char_mme2"> ဗ </string>
+     <string name="char_mme3"> ဘ </string>
+     <string name="char_mme4"> မ </string>
+     
+     <string name="char_mmf"> ယ</string>
+     <string name="char_mmf1"> ရ </string>
+     <string name="char_mmf2"> လ </string>
+      <string name="char_mmf3"> ဝ </string>
+     <string name="char_mmf4"> သ </string>
+     
+     <string name="char_mmg"> ဟ </string>
+     <string name="char_mmg1"> ဠ </string>
+     <string name="char_mmg2"> အ </string>
+     
+</resources>

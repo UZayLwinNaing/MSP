@@ -1,0 +1,210 @@
+[
+    {
+        "merged": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popup_vertical.xml",
+        "source": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\src\\main\\res\\layout\\popup_vertical.xml"
+    },
+    {
+        "merged": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem.xml",
+        "source": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\src\\main\\res\\layout\\listitem.xml"
+    },
+    {
+        "merged": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\action_item_vertical.xml",
+        "source": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\src\\main\\res\\layout\\action_item_vertical.xml"
+    },
+    {
+        "merged": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_feedback.xml",
+        "source": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\src\\main\\res\\layout\\activity_feedback.xml"
+    },
+    {
+        "merged": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\byname.xml",
+        "source": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\src\\main\\res\\layout\\byname.xml"
+    },
+    {
+        "merged": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\searchnameresult.xml",
+        "source": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\src\\main\\res\\layout\\searchnameresult.xml"
+    },
+    {
+        "merged": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_overlay.xml",
+        "source": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_decor_overlay.xml"
+    },
+    {
+        "merged": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\category_menulrg.xml",
+        "source": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\src\\main\\res\\layout\\category_menulrg.xml"
+    },
+    {
+        "merged": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item.xml",
+        "source": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_mode_close_item.xml"
+    },
+    {
+        "merged": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\grid_imtxt.xml",
+        "source": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\src\\main\\res\\layout\\grid_imtxt.xml"
+    },
+    {
+        "merged": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\selected_item.xml",
+        "source": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\src\\main\\res\\layout\\selected_item.xml"
+    },
+    {
+        "merged": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_city.xml",
+        "source": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\src\\main\\res\\layout\\list_city.xml"
+    },
+    {
+        "merged": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\viewitem.xml",
+        "source": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\src\\main\\res\\layout\\viewitem.xml"
+    },
+    {
+        "merged": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mainlarge.xml",
+        "source": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\src\\main\\res\\layout\\activity_mainlarge.xml"
+    },
+    {
+        "merged": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_tabbar.xml",
+        "source": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_tabbar.xml"
+    },
+    {
+        "merged": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_include.xml",
+        "source": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_decor_include.xml"
+    },
+    {
+        "merged": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\category_menu.xml",
+        "source": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\src\\main\\res\\layout\\category_menu.xml"
+    },
+    {
+        "merged": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\action_item_horizontal.xml",
+        "source": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\src\\main\\res\\layout\\action_item_horizontal.xml"
+    },
+    {
+        "merged": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\splashscreen.xml",
+        "source": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\src\\main\\res\\layout\\splashscreen.xml"
+    },
+    {
+        "merged": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\horiz_separator.xml",
+        "source": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\src\\main\\res\\layout\\horiz_separator.xml"
+    },
+    {
+        "merged": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_tab.xml",
+        "source": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_tab.xml"
+    },
+    {
+        "merged": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_s_dialoglayout.xml",
+        "source": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\src\\main\\res\\layout\\activity_s_dialoglayout.xml"
+    },
+    {
+        "merged": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popular_search.xml",
+        "source": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\src\\main\\res\\layout\\popular_search.xml"
+    },
+    {
+        "merged": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nolist.xml",
+        "source": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\src\\main\\res\\layout\\nolist.xml"
+    },
+    {
+        "merged": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\category_listing.xml",
+        "source": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\src\\main\\res\\layout\\category_listing.xml"
+    },
+    {
+        "merged": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\category_search.xml",
+        "source": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\src\\main\\res\\layout\\category_search.xml"
+    },
+    {
+        "merged": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_include.xml",
+        "source": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\category_detail.xml",
+        "source": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\src\\main\\res\\layout\\category_detail.xml"
+    },
+    {
+        "merged": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_home.xml",
+        "source": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_home.xml"
+    },
+    {
+        "merged": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popup_horizontal.xml",
+        "source": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\src\\main\\res\\layout\\popup_horizontal.xml"
+    },
+    {
+        "merged": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_row.xml",
+        "source": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\src\\main\\res\\layout\\list_row.xml"
+    },
+    {
+        "merged": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\searchbycityresult.xml",
+        "source": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\src\\main\\res\\layout\\searchbycityresult.xml"
+    },
+    {
+        "merged": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\searchbycity.xml",
+        "source": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\src\\main\\res\\layout\\searchbycity.xml"
+    },
+    {
+        "merged": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_web.xml",
+        "source": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\src\\main\\res\\layout\\activity_web.xml"
+    },
+    {
+        "merged": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\contactus.xml",
+        "source": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\src\\main\\res\\layout\\contactus.xml"
+    }
+]

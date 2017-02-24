@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\spinner_bg.xml",
+        "source": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\src\\main\\res\\drawable-hdpi\\spinner_bg.xml"
+    },
+    {
+        "merged": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\action_item_btn.xml",
+        "source": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\src\\main\\res\\drawable-hdpi\\action_item_btn.xml"
+    },
+    {
+        "merged": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\et_boxboder.xml",
+        "source": "D:\\workspaceAS\\Myanmar_Superpages(AS)\\app\\src\\main\\res\\drawable-hdpi\\et_boxboder.xml"
+    }
+]

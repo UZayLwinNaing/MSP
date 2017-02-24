@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+     >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="63dp" >
+         <ImageView
+            android:id="@+id/logo"
+            android:layout_width="35dp"
+            android:layout_height="40dp"
+            android:layout_alignParentLeft="true"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="3dp"
+            android:src="@drawable/list_logo" />
+        <ImageView
+            android:id="@+id/next1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10dp"
+            android:src="@drawable/next" />
+        
+
+        <TextView
+            android:id="@+id/webtitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="7dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginLeft="2dp"
+            android:layout_toRightOf="@+id/logo"
+            android:text="Medium Text"
+            android:textSize="16sp"
+            android:textColor="#787878"
+            android:textStyle="bold"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+       
+           <TextView
+            android:id="@+id/subtitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+           
+            android:layout_centerHorizontal="true"
+            android:layout_marginLeft="2dp"
+           android:layout_toRightOf="@+id/logo"
+            android:text="Sub Text"
+            android:textSize="13sp"
+            android:textColor="#68bcde"
+            android:textStyle="bold"
+            android:layout_below="@+id/webtitle"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+             <ImageView
+                 android:id="@+id/adv"
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:layout_alignBottom="@+id/webtitle"
+                 android:layout_toRightOf="@+id/webtitle"
+                 android:src="@drawable/ads" />
+
+    </RelativeLayout>
+
+</LinearLayout>

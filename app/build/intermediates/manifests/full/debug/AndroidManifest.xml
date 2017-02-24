@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.mmsp.myanmarsuperpages"
+    android:versionCode="9"
+    android:versionName="3.9" >
+
+    <uses-sdk
+        android:minSdkVersion="13"
+        android:targetSdkVersion="19" />
+
+    <!-- You will change new version  versionCode and versionName 2016.02.22(05:06 PM) -->
+    <!-- new version  Old_versionCode=0 and Old_versionName=0.0 -->
+    <!-- You will change new version  versionCode and versionName 2016.03.16(09:01 AM) -->
+    <!-- new version  Old_versionCode=1 and Old_versionName=1.0 -->
+    <!-- You will change new version  versionCode and versionName 2016.03.30(10:26 AM) -->
+    <!-- new version  Old_versionCode=1 and Old_versionName=1.1 -->
+    <!-- You will change new version  versionCode and versionName 2016.04.04(1:04 PM) -->
+    <!-- new version  Old_versionCode=1 and Old_versionName=1.2 -->
+    <!-- You will change new version  versionCode and versionName 2016.04.04(1:04 PM) -->
+    <!-- new version  Old_versionCode=2 and Old_versionName= 2.0 -->
+    <!-- You will change new version  versionCode and versionName 2017.01.28(3:58 PM) -->
+    <!-- new version  Old_versionCode=3 and Old_versionName=3.0 -->
+    <!-- You will change new version  versionCode and versionName 2017.01.28(5:24 PM) -->
+    <!-- new version  Old_versionCode=4 and Old_versionName=3.1 -->
+    <!-- Internet Permissions -->
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <!-- Permission to write to external storage -->
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+
+    <supports-screens
+        android:anyDensity="true"
+        android:largeScreens="true"
+        android:normalScreens="true"
+        android:smallScreens="true" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logo"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.mmsp.myanmarsuperpages.Splashscreen"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.mmsp.myanmarsuperpages.MainActivity"
+            android:label="Main Page"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.mmsp.myanmarsuperpages.Popular_categories"
+            android:label="Detail Page"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.mmsp.myanmarsuperpages.Popular_SearchResult"
+            android:label="Detail Page"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.mmsp.myanmarsuperpages.Category_Menu"
+            android:label="Detail Page"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.mmsp.myanmarsuperpages.Category_Search"
+            android:label="Detail Page"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.mmsp.myanmarsuperpages.Main_allDetail"
+            android:label="Detail Page"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.mmsp.myanmarsuperpages.Searchby_City"
+            android:label="Detail Page" >
+        </activity>
+        <activity
+            android:name="com.mmsp.myanmarsuperpages.Main_Searchwithbusinessname"
+            android:label="Detail Page"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.mmsp.myanmarsuperpages.Searchby_CityResult"
+            android:label="Detail Page"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.mmsp.myanmarsuperpages.Searchby_Name"
+            android:label="Detail Page"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.mmsp.myanmarsuperpages.Searchby_NameResult"
+            android:label="Detail Page"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.mmsp.myanmarsuperpages.AboutUs"
+            android:label="Detail Page"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.mmsp.myanmarsuperpages.ContactUs"
+            android:label="Detail Page"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.mmsp.myanmarsuperpages.Searchby_CityAndCat"
+            android:label="Detail Page"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.mmsp.myanmarsuperpages.Category_Listing"
+            android:label="Detail Page"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.mmsp.myanmarsuperpages.Feedback"
+            android:label="Detail Page"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.mmsp.myanmarsuperpages.WebActivity"
+            android:label="@string/title_activity_web" >
+        </activity>
+        <activity
+            android:name="com.mmsp.myanmarsuperpages.customphonecall.Mm_cdma_dialogActivity"
+            android:label="Message"
+            android:theme="@android:style/Theme.Dialog" >
+        </activity>
+        <activity
+            android:name="com.mmsp.myanmarsuperpages.customphonecall.Mm_gsm_dialogActivity"
+            android:label="Message"
+            android:theme="@android:style/Theme.Dialog" >
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,77 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/header2"
+    tools:context="${packageName}.${activityClass}" >
+
+    <ImageView
+        android:id="@+id/menubtn_feedback"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_gravity="right"
+        android:layout_marginTop="15dp"
+        android:layout_marginRight="10dp"
+        android:src="@drawable/menubtn" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginTop="120dp"
+        android:padding="3dp" >
+
+        <TextView
+            android:id="@+id/txt_dialog_title2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Feedback"
+		    android:textSize="18sp"
+		    android:textAppearance="?android:attr/textAppearanceLarge"
+		    android:gravity="center"
+		    android:textStyle="bold"
+		    android:textColor="#1084cd" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="3dp" >
+
+            <EditText
+                android:id="@+id/edtxt_y_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:hint="name" >
+                <requestFocus />
+            </EditText>
+
+            <EditText
+                android:id="@+id/edtxt_y_detail"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:ems="1000"
+                android:hint="feedback details" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <Button
+                android:id="@+id/btn_y_feedback"
+                android:layout_width="160dp"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Send Feedback" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</RelativeLayout>

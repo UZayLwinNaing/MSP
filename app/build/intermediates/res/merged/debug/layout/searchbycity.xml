@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/RelativeLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/mainscreen" >
+   <ImageView 
+        android:id="@+id/iv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/menubtn"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_alignParentRight="true"/>
+    
+     <LinearLayout
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:layout_gravity="center"
+               android:layout_marginTop="70dp" >
+
+               <ImageView
+                   android:id="@+id/img_searchbycity_mm"
+                   android:layout_width="50dp"
+                   android:layout_height="40dp"
+                   android:layout_marginLeft="200dp"
+                   android:layout_marginRight="10dp"
+                   android:src="@drawable/ic_mmflag100" />
+
+               <ImageView
+                   android:id="@+id/img_searchbycity_en"
+                   android:layout_width="50dp"
+                   android:layout_height="40dp"
+                   android:src="@drawable/ic_engflag100" />
+
+     </LinearLayout>
+     <TextView
+                android:id="@+id/txt_dialog_title2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/iv"
+                android:text="Search By City"
+                android:textStyle="bold" 
+          		android:textColor="#1084cd" 
+          		android:textSize="18sp"
+                android:layout_marginTop="90dp"
+                android:gravity="center" />
+
+     <RelativeLayout
+         android:id="@+id/rl"
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:layout_below="@+id/txt_dialog_title2"
+         android:gravity="center_horizontal"
+         android:layout_marginTop="10dp" >
+
+         <Button
+             android:id="@+id/btnpt"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:layout_marginRight="10dp"
+             android:background="@drawable/btn_npt" />
+         <Button
+             android:id="@+id/btygn"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+              android:layout_marginLeft="10dp"
+             android:layout_toRightOf="@+id/btnpt"
+             android:background="@drawable/btn_ygn" />
+         
+     </RelativeLayout>
+      <RelativeLayout
+          android:id="@+id/rl1"
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:gravity="center_horizontal"
+         android:layout_below="@+id/rl"
+         android:layout_marginTop="10dp" >
+
+         <Button
+             android:id="@+id/btmdy"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:layout_marginRight="10dp"
+             android:background="@drawable/btn_mdy" />
+         <Button
+             android:id="@+id/btoth"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+              android:layout_marginLeft="10dp"
+             android:layout_toRightOf="@+id/btmdy"
+             android:background="@drawable/btn_oth" />
+          
+        
+     </RelativeLayout>
+
+      <Button
+          android:id="@+id/btnline"
+          android:layout_width="wrap_content"
+          android:layout_height="2dp"
+          android:layout_marginTop="5dp"
+          android:background="@drawable/line"
+         android:gravity="center"
+         android:layout_centerInParent="true"
+          android:layout_below="@+id/rl1"/>
+
+      <RelativeLayout
+          android:id="@+id/rl2"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content" 
+          android:layout_below="@+id/btnline"
+          android:layout_marginTop="5dp"
+          android:gravity="center_horizontal">
+
+         <Spinner
+        android:id="@+id/spinner1"
+        android:layout_width="275dp"
+        android:layout_height="40dp"
+        style="@style/spinner_style"
+        android:spinnerMode="dropdown"
+        android:drawSelectorOnTop="true"
+        android:dropDownVerticalOffset="1dp"
+         android:popupBackground="@color/maincolor" />
+
+          <Spinner
+              android:id="@+id/spinner2"
+              style="@style/spinner_style"
+              android:layout_width="275dp"
+              android:layout_height="40dp"
+             android:layout_marginTop="10dp"
+             android:layout_below="@+id/spinner1"
+              android:drawSelectorOnTop="true"
+              android:spinnerMode="dropdown"
+               android:popupBackground="@color/maincolor" 
+              android:dropDownVerticalOffset="1dp" />
+
+      </RelativeLayout>
+
+      <Button
+          android:id="@+id/btnsearch"
+          android:layout_width="275dp"
+          android:layout_height="40dp"
+          android:layout_below="@+id/rl2"
+          android:text="Search"
+          android:textSize="18sp"
+          android:textColor="#FFFFFF"
+          android:gravity="center"
+          android:layout_marginTop="5dp"
+          android:layout_centerInParent="true"
+          android:background="@drawable/searchbtn" />
+
+     
+
+</RelativeLayout>
